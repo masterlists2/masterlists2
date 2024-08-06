@@ -1,0 +1,7 @@
+activation.acronis.com
+web-api-tih.acronis.com
+web-api-tie.acronis.com
+web-api-vmp.acronis.com
+cloud-rs-us2-acronis.com
+cloud-fes-us2-acronis.com
+rpc.acronis.com
