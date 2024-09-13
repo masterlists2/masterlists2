@@ -1,3 +1,9 @@
+# Title: Acronis Tracker DNS Blocklist
+# Description: Block Acronis trackers
+# License: Not applicable
+# Expires: 7 days
+# Syntax: Domains
+#
 activation.acronis.com
 web-api-tih.acronis.com
 web-api-tie.acronis.com

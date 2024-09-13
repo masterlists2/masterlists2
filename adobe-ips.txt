@@ -1,3 +1,9 @@
+# Title: Adobe trackers IP blocklist
+# Description: Block Adobe trackers
+# License: Not applicable
+# Expires: 7 days
+# Syntax: IPs
+#
 100.24.211.130
 13.227.103.57
 162.247.242.20

@@ -1,3 +1,8 @@
+# Title: Minitool trackers DNS blocklist
+# Description: Block Minitool trackers
+# Expires: 7 days
+# Syntax: Domains
+#
 pas2.partitionwizard.com
 pas2.minitool.com
 pas2.eofsoft.com

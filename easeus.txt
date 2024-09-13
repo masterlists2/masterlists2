@@ -1,2 +1,7 @@
+# Title: Easeus trackers DNS blocklist
+# Description: Block Easeus trackers
+# Expires: 7 days
+# Syntax: Domains
+#
 activation.easeus.com
 track.easeus.com

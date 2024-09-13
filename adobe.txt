@@ -1,3 +1,8 @@
+# Title: Adobe trackers DNS blocklist
+# Description: Block Adobe trackers
+# Expires: 7 days
+# Syntax: Domains
+#
 #crl.verisign.net
 #wip.adobe.com   # The following are disabled as they may interfere
 #wip1.adobe.com  # when visiting the adobe.com website

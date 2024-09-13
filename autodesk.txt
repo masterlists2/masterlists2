@@ -1,3 +1,8 @@
+# Title: Autodesk trackers DNS blocklist
+# Description: Block Autodesk trackers
+# Expires: 7 days
+# Syntax: Domains
+#
 126114-app1.autodesk.com
 94175-app1.autodesk.com
 94184-app2.autodesk.com
